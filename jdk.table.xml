@@ -1,0 +1,406 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7 (Project1(Calculator))" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Users\User\PycharmProjects\Project1(Calculator)\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/Project1(Calculator)/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Project1(Calculator)/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Project1(Calculator)/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Project1(Calculator)/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-83448685" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Project1(Calculator)" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-762174762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (ICT1002)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\User\Desktop\ICT1002\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/ICT1002/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1784608013" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT1002" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (W3)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Users\User\Desktop\ICT1002\W3\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W3/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W3/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W3/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W3/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-337866248" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT1002/W3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (PythonGUI)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Users\User\Desktop\ICT1002\PythonGUI\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/ICT1002/PythonGUI/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/PythonGUI/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/PythonGUI/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/PythonGUI/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1604048515" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT1002/PythonGUI" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (W4)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Users\User\Desktop\ICT1002\W4\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1879891705" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT1002/W4" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (W4-1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Users\User\Desktop\ICT1002\W4-1\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-1/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-1/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-1/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-1/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1518948957" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT1002/W4-1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (W4-3)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Users\User\Desktop\ICT1002\W4-3\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-3/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-3/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-3/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/W4-3/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1659497567" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT1002/W4-3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (Python_lab)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="C:\Users\User\Desktop\ICT1002\Python_lab\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/ICT1002/Python_lab/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/Python_lab/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/Python_lab/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT1002/Python_lab/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-445931258" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT1002/Python_lab" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (1008)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\User\Deskop\1008\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64" type="simple" />
+            <root url="file://$USER_HOME$/Deskop/1008/venv" type="simple" />
+            <root url="file://$USER_HOME$/Deskop/1008/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Deskop/1008/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Deskop/1008/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/166797479" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Deskop/1008" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (1010)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\Users\User\Desktop\1010\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/1010/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/1010/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Desktop/1010/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/1010/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/523212550" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/1010" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\Users\User\Desktop\untitled\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/untitled/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/untitled/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Desktop/untitled/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/untitled/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1634866797" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Assignment)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\Users\User\Desktop\2202\Assignment\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/2202/Assignment/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/2202/Assignment/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Desktop/2202/Assignment/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/2202/Assignment/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1924693262" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/2202/Assignment" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ICT2203)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\Users\User\Desktop\ICT2203\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT2203/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT2203/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Desktop/ICT2203/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/ICT2203/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/2101641429" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/ICT2203" />
+    </jdk>
+  </component>
+</application>
